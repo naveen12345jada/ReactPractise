@@ -1,0 +1,30 @@
+
+body{
+    background-color: white;
+}
+#MovieContainer img{
+
+    width: 100%;
+    border-radius: 3%;
+    height: 20vh;
+}
+#MovieContainer button{
+    background-color: rgb(12, 209, 78);
+    width: 10vw;
+    height: 10vh;
+}
+#MovieContainer{
+box-shadow: 10px 10px rgb(224, 226, 109);
+border-radius: 3%;
+width: 20%;
+height: 80vh;
+text-align: center;
+background-color: rgb(245, 194, 142);
+color: rgb(44, 42, 42);
+float: left; 
+margin: 2%;
+padding: 10px;
+box-sizing: border-box;
+
+
+}

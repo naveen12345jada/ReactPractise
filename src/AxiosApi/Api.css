@@ -1,0 +1,89 @@
+/* 
+
+
+table{
+    border: 1px solid;
+    width: 70%;
+    height: auto;
+    margin: auto;
+    background-color: rgb(15, 16, 14);
+   
+}
+
+table thead tr th{
+    padding: 20px;
+    border: 1px solid;
+    color: white;
+    
+}
+table tbody tr td{
+    padding: 20px;
+    border: 1px solid;
+    color: white;
+}
+
+.naveen{
+    width: 70%;
+    margin: auto;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+    color: white;
+    
+}
+
+input{
+    margin-top: 30px; 
+    margin-left: 40%;
+  
+} */
+
+
+
+.form{
+
+
+width: 100%;
+margin-bottom: 40px;
+display: flex;
+   align-items: center;
+   justify-content: center;
+
+}
+form{
+   background-color: aqua;
+   padding: 40px;
+   width: 20%;
+   
+}
+
+form input {
+    margin-top: 20px;
+   
+   
+}
+
+table{
+    margin: auto;
+   
+    background-color: green;
+    color: white;
+padding: 40px;
+border: 1px solid;
+
+
+
+}
+table thead tr th{
+    padding: 30px;
+    /* border: 1px solid; */
+}
+
+table tbody tr td {
+    padding: 30px;
+    /* border: 1px solid; */
+}
+
+
